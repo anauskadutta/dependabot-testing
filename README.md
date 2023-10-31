@@ -1,2 +1,2 @@
 # sample3
-This repo is used to call and test out custom actions
+This repo is used to call and test out a custom action
